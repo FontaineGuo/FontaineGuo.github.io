@@ -20,7 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   to be a tech artist and you're interested in game dev or painting,
   you could email me and have a communication in the field you like.
   
-  p.s:my email address don't have  "(X)", just for keeping trash email
+  p.s:
+    my email address don't have  "(X)", just for keeping trash email
   senders out.
   
 baseurl: "" # the subpath of your site, e.g. /blog
