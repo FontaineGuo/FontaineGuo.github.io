@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-07T00:56:24+08:00</updated><id>http://localhost:4000//</id><title type="html">FontaineGuo Blog</title><subtitle>Hi, I'm Fontaine Guo, a game designer and programmar. I'm trying to be a tech artist and you're interested in game dev or painting, you could email me and have a communication in the field you like.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-18T01:27:38+08:00</updated><id>http://localhost:4000//</id><title type="html">FontaineGuo Blog</title><subtitle>Hi, I'm Fontaine Guo, a game designer and programmar. I'm trying to be a tech artist and you're interested in game dev or painting, you could email me and have a communication in the field you like.
 p.s:
   my email address don't have  &quot;(X)&quot;, just for keeping trash email
 senders out.
@@ -14,4 +14,314 @@ senders out.
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Markdown Cheatsheet</title><link href="http://localhost:4000/cat01/cat02/2015/11/25/markdown-cheatsheet.html" rel="alternate" type="text/html" title="Markdown Cheatsheet" /><published>2015-11-25T20:00:00+08:00</published><updated>2015-11-25T20:00:00+08:00</updated><id>http://localhost:4000/cat01/cat02/2015/11/25/markdown-cheatsheet</id><content type="html" xml:base="http://localhost:4000/cat01/cat02/2015/11/25/markdown-cheatsheet.html">&lt;blockquote&gt;
+  &lt;p&gt;This is Markdown Cheatsheet for &lt;strong&gt;MAD4Jekyll&lt;/strong&gt;, this Jekyll theme. Please check the raw content of this file for the markdown usage.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;typography-elements&quot;&gt;Typography Elements&lt;/h2&gt;
+
+&lt;p&gt;This is a paragraph. &lt;strong&gt;This text is bolded.&lt;/strong&gt; This text is normal! &lt;em&gt;This text is italic.&lt;/em&gt; We can  also &lt;strong&gt;&lt;em&gt;combine&lt;/em&gt;&lt;/strong&gt; them. A highlighted code looks like &lt;code class=&quot;highlighter-rouge&quot;&gt;ThisIsMyCode()&lt;/code&gt;. This text is a &lt;a href=&quot;#&quot;&gt;hyperlink&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;headings-h1-to-h6&quot;&gt;Headings H1 to H6&lt;/h2&gt;
+
+&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+
+&lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
+
+&lt;h3 id=&quot;h3-heading&quot;&gt;H3 Heading&lt;/h3&gt;
+
+&lt;h4 id=&quot;h4-heading&quot;&gt;H4 Heading&lt;/h4&gt;
+
+&lt;h5 id=&quot;h5-heading&quot;&gt;H5 Heading&lt;/h5&gt;
+
+&lt;h6 id=&quot;h6-heading&quot;&gt;H6 Heading&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;footnote&quot;&gt;Footnote&lt;/h2&gt;
+
+&lt;p&gt;If you have some text that you want to refer with a footnote, do as follows. This is an example for the footnote number one &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Add more footnotes, with link. &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The roots of education are bitter, but the fruit is sweet. –Aristotle&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;list-items&quot;&gt;List Items&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First order list item&lt;/li&gt;
+  &lt;li&gt;Second item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
+  &lt;li&gt;Or minuses&lt;/li&gt;
+  &lt;li&gt;Or pluses&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h2&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
+But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
+
+&lt;h3 id=&quot;table-1-with-alignment&quot;&gt;Table 1: With Alignment&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tables&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;for&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Markdown&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 3 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;ok?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 2 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Got it?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 1 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;left-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Alright!!!&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;table-2-with-typography-elements&quot;&gt;Table 2: With Typography Elements&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Another&lt;/th&gt;
+      &lt;th&gt;table&lt;/th&gt;
+      &lt;th&gt;here&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;I&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;am&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;row&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;two&lt;/td&gt;
+      &lt;td&gt;III&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;horizontal-line&quot;&gt;Horizontal Line&lt;/h2&gt;
+
+&lt;p&gt;The HTML &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; element is for creating a “thematic break” between paragraph-level elements. In markdown, you can create a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; with any of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;___&lt;/code&gt;: three consecutive underscores&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt;: three consecutive dashes&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt;: three consecutive asterisks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;renders to:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
+
+&lt;h3 id=&quot;youtube-embedded-iframe&quot;&gt;YouTube Embedded Iframe&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OuoaKai_L00&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/spectrocat.png&quot; alt=&quot;Spectrocat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;for-a-more-detailed-syntax-with-markdown-please-visit-daringfireballnethttpdaringfireballnetprojectsmarkdownsyntax&quot;&gt;For a more detailed syntax with Markdown, please visit &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;DaringFireball.net&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h6 id=&quot;image-source-unsplashhttpsunsplashcomphotos6g0kjwnbhxg&quot;&gt;Image Source: &lt;a href=&quot;https://unsplash.com/photos/6g0KJWnBhxg&quot;&gt;UNSPLASH&lt;/a&gt;&lt;/h6&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Footnote number one. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;A footnote you can link to - &lt;a href=&quot;#&quot;&gt;click here!&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>MADness</name></author><category term="tag-name-one" /><category term="tag-name-two" /><summary type="html">This is Markdown Cheatsheet for MAD4Jekyll, this Jekyll theme. Please check the raw content of this file for the markdown usage.</summary></entry><entry><title type="html">Multiple Galleries</title><link href="http://localhost:4000/cat03/2015/11/23/multiple-galleries.html" rel="alternate" type="text/html" title="Multiple Galleries" /><published>2015-11-23T20:00:00+08:00</published><updated>2015-11-23T20:00:00+08:00</updated><id>http://localhost:4000/cat03/2015/11/23/multiple-galleries</id><content type="html" xml:base="http://localhost:4000/cat03/2015/11/23/multiple-galleries.html">&lt;p&gt; Content of your post HERE &lt;/p&gt;
+
+&lt;p&gt; Add as many paragraphs amongst your galleries as you want. &lt;/p&gt;
+
+&lt;div class=&quot;gallery masonry-gallery&quot;&gt;
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+&lt;a href=&quot;http://localhost:4000/assets/owner/blog/galleries/g01/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© MADness&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/owner/blog/galleries/g01/bg1.jpg&quot; /&gt;&lt;/a&gt;
+						
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
+				&lt;h5 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;IMAGE TITLE&lt;/h5&gt;
+					&lt;h6 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;© MADness&lt;/h6&gt;
+						&lt;/div&gt;
+					&lt;/figcaption&gt;
+				&lt;/figure&gt;
+
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+&lt;a href=&quot;http://localhost:4000/assets/owner/blog/galleries/g01/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© MADness&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/owner/blog/galleries/g01/bg2.jpg&quot; /&gt;&lt;/a&gt;
+						
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
+				&lt;h5 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;IMAGE TITLE&lt;/h5&gt;
+					&lt;h6 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;© MADness&lt;/h6&gt;
+						&lt;/div&gt;
+					&lt;/figcaption&gt;
+				&lt;/figure&gt;
+
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+&lt;a href=&quot;http://localhost:4000/assets/owner/blog/galleries/g01/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© MADness&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/owner/blog/galleries/g01/bg3.jpg&quot; /&gt;&lt;/a&gt;
+						
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
+				&lt;h5 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;IMAGE TITLE&lt;/h5&gt;
+					&lt;h6 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;© MADness&lt;/h6&gt;
+						&lt;/div&gt;
+					&lt;/figcaption&gt;
+				&lt;/figure&gt;
+
+  
+&lt;/div&gt;
+
+&lt;!-- end of GALLERY __ --&gt;
+
+&lt;p&gt; Add as many galleries as you want, including as many photos as you want. Simply edit the &lt;b&gt;FRONT MATTER&lt;/b&gt; of the post, adding the corresponding &lt;b&gt;path&lt;/b&gt;, &lt;b&gt;caption&lt;/b&gt; and &lt;b&gt;copyright&lt;/b&gt; info for each one of your photos. &lt;/p&gt;
+
+&lt;div class=&quot;gallery masonry-gallery&quot;&gt;
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+&lt;a href=&quot;http://localhost:4000/assets/owner/blog/galleries/g02/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© MADness&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/owner/blog/galleries/g02/bg1.jpg&quot; /&gt;&lt;/a&gt;
+						
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
+				&lt;h5 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;IMAGE TITLE&lt;/h5&gt;
+					&lt;h6 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;© MADness&lt;/h6&gt;
+						&lt;/div&gt;
+					&lt;/figcaption&gt;
+				&lt;/figure&gt;
+
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+&lt;a href=&quot;http://localhost:4000/assets/owner/blog/galleries/g02/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© MADness&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/owner/blog/galleries/g02/bg2.jpg&quot; /&gt;&lt;/a&gt;
+						
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
+				&lt;h5 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;IMAGE TITLE&lt;/h5&gt;
+					&lt;h6 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;© MADness&lt;/h6&gt;
+						&lt;/div&gt;
+					&lt;/figcaption&gt;
+				&lt;/figure&gt;
+
+  
+
+  &lt;figure class=&quot;gallery-item&quot;&gt;
+
+	&lt;header class=&quot;gallery-icon&quot;&gt;
+
+&lt;a href=&quot;http://localhost:4000/assets/owner/blog/galleries/g02/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© MADness&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/owner/blog/galleries/g02/bg3.jpg&quot; /&gt;&lt;/a&gt;
+						
+	&lt;/header&gt;	
+		
+   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
+		&lt;div class=&quot;entry-summary&quot; id=&quot;IMAGE TITLE&quot;&gt;
+				&lt;h5 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;IMAGE TITLE&lt;/h5&gt;
+					&lt;h6 style=&quot;text-shadow: 2px 2px #000000;&quot;&gt;© MADness&lt;/h6&gt;
+						&lt;/div&gt;
+					&lt;/figcaption&gt;
+				&lt;/figure&gt;
+
+  
+&lt;/div&gt;
+
+&lt;!-- end of GALLERY __ --&gt;
+
+&lt;h6 id=&quot;image-source-unsplashhttpsunsplashcomphotosj0g8taxhza0&quot;&gt;Image Source: &lt;a href=&quot;https://unsplash.com/photos/j0g8taxHZa0&quot;&gt;UNSPLASH&lt;/a&gt;&lt;/h6&gt;</content><author><name>MADness</name></author><category term="[&quot;cat03&quot;]" /><category term="tag-name-one" /><category term="tag-name-two" /><summary type="html">Content of your post HERE</summary></entry></feed>
