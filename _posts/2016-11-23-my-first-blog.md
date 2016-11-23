@@ -2,7 +2,7 @@
 layout: post
 title: My First Blog
 subtitle: First to set up a blog
-date:       2016-11-23 22:48:00
+date:       2016-11-23 22:50:00
 author:     "Fontaine Guo"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
