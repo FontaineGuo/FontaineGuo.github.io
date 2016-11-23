@@ -15,7 +15,7 @@ categories: [cat01, cat02]
 ## Why set up a personal blog?
 After I got my EE bachelor from [Hunan University](http://www-en.hnu.edu.cn/), I joined a game studio and don't work in EE field. After months hard work, I found  creating games are really a work which contact with many field like computer science, painting, music, etc. So I set up this blog to share what I learn from game dev and to communicate with other game developers.
 
-Oh, forget to tell everybody, I'm trying to be tech artist, if you have interesting in the field too, you can contact me to the
+Oh, forget to tell everybody, I'm trying to be tech artist, if you have interesting in the field too, you can contact me to the e-mail
 
   **Fontaine_gzy # 163 Dot com**.
 
